@@ -1,0 +1,6 @@
+venv/
+
+tests/__pycache__/
+rptodo/__pycache__/
+
+.pytest_cache/
