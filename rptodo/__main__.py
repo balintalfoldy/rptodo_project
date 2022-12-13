@@ -2,7 +2,7 @@
 # rptodo/__main__.py
 
 from . import cli
-from rptodo import __app_name__
+from .constants import __app_name__
 
 
 def main():
